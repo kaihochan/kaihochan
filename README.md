@@ -2,7 +2,7 @@
 
 Hi there! I am Kai Ho John CHAN  
 
-BEng (Hons) in Electronic and Information Engineering at The Hong Kong Polytechnic University
+BEng (Hons) in Electronic and Information Engineering graduate at The Hong Kong Polytechnic University
 
 I watch football, F1 and anime in the free time, sometimes works on mini projects also.  
 
