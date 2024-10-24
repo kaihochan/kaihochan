@@ -10,24 +10,25 @@ I watch football, F1 and anime in the free time, sometimes works on mini project
     <summary><b>Details on programming</b></summary>
     <div align="left">
         I mainly use this<br>
-        <img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Java-edb800?style=flat-square&logo=openjdk&logoColor=black"/> 
+        <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/> 
+        <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white"/> 
     </div>
     <div align="left">
         School project uses these language/hardware<br>
         <img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=black"/> 
         <img src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=cplusplus&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/-Java-5f7d96?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Arduino Uno-00979d?style=flat-square&logo=arduino&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-STM32F10x-03234b?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
     </div>
     <div align="left">
         Previous job uses these framework for frontend and backend<br>
-        <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/> 
+        <img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/-Vue.js 3-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/-Vuetify 3 Beta-1867c0?style=flat-square&logo=vuedotjs&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/-Nuxt.js 3 RC-00dc82?style=flat-square&logo=nuxtdotjs&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/-Vuetify-1867c0?style=flat-square&logo=vuedotjs&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/-Nuxt.js-00dc82?style=flat-square&logo=nuxtdotjs&logoColor=white"/> 
     </div>
 </details>
 
@@ -47,7 +48,7 @@ I watch football, F1 and anime in the free time, sometimes works on mini project
 <details>
     <summary><b>Happy corner for F1</b></summary>
     <div align="left">
-        I am going to join the Ferrari Race Engineer™ if they still act like this season...<br>
+        Finally Ferrari Race Engineer™ is gone :)<br>
         <img src="./src/ferrari.jpg" width="300"/>
     </div>
 </details>
